@@ -28,6 +28,7 @@ Com o projeto finalizado, será obtido o projeto de um jogo da velha utilizando 
 
 ## Exemplo de Funcionamento da Aplicação
 Link do projeto: #
+
 ![image](https://github.com/ArlindoMessias/-Python-Projeto-Jogo-Da-Velha/assets/47644068/71529da4-bd1c-4f6c-a2e3-0e3940969264)
 
 ## Pré-requisitos
